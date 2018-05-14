@@ -1,0 +1,13 @@
+html {
+  background-color: lightgrey;
+}
+
+input {
+  width: 15%;
+  height: 20px;
+  font-size: 16px;
+}
+
+.user-input {
+  margin: 50px 0 10px 50px;
+}
